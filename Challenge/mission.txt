@@ -1,0 +1,19 @@
+Your mission, should you choose to accept it, is to find the private key for the public ssh key below.
+As always: Should you be caught or killed, the SecLab team will disavow any knowledge of your actions.
+This message will self-destruct in five seconds.
+Good luck!
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAyz2fYe5kses7R4UuzoQso9qQoD8uw9cwuTSTzgyQYzEj9LxSb0y/It+QE8yipyXD3e/mzQaFuFgiWJ/tDkJFPdxLHKvIq1KJ4QHd4dPkKqquuU0+Euvg1fLn4cFcRQcwZA8NSrIPdwCd87P4bmtnHGia+bs304r1daBr5gmk9HE= root@debian
+
+
+##########################################################################
+#      NO SSH SERVERS WERE HARMED IN THE MAKING OF THIS CHALLENGE!       #
+# SO, IF YOU TOUCH ANY SERVER DURING THIS CHALLENGE YOU WILL BE PUNISHED #
+##########################################################################
+
+
+##################################################################
+# JUST TO BE CLEAR: DO NOT USE THE KEY TO CONNECT TO ANY SERVER! #
+#  NO SSH SERVERS OR OTHER SERVERS ARE PART OF THIS CHALLENGE!   #
+##################################################################
